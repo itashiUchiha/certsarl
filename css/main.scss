@@ -965,7 +965,9 @@ nav{
     
 }
 .about-right{
- overflow:hidden;
+ padding: 0em;
+ display: flex;
+ position: relative; 
 }
 
 @media screen and (min-width: 992px){
